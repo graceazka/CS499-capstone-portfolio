@@ -1,0 +1,5 @@
+// _config.yml Configuration
+theme: jekyll-theme-cayman
+title: "Jane Doe | Computer Science Capstone"
+description: "BS in Computer Science Professional ePortfolio - CS 499"
+show_downloads: false
